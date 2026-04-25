@@ -5,7 +5,7 @@ const Navbar=()=>{
 	return(
 		<header>
 			<nav>
-				<img src="/LOGO.png" alt="My Logo" className="w-50 h-25 object-contain" />
+				<img src="/LOGO.png" alt="My Logo" className="w-40 h-20 object-contain" />
 
 				<ul>
 					{navLinks.map(({label})=>(
